@@ -9,7 +9,7 @@
     "lint": "eslint"
   },
   "dependencies": {
-    "@thomasbsgr-jarvis/jarvis-auth-next": "^0.1.2",
+    "@thomasbsgr-jarvis/jarvis-auth-next": "^0.0.1",
     "jose": "^6.2.3",
     "lucide-react": "^0.562.0",
     "next": "^16.2.7",
