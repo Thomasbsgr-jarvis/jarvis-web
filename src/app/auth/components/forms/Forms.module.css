@@ -1,0 +1,5 @@
+@reference "../../../globals.css";
+
+.inputGroup {
+  @apply flex flex-col gap-1;
+}
